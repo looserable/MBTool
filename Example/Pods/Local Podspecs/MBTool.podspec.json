@@ -1,0 +1,22 @@
+{
+  "name": "MBTool",
+  "version": "0.1.0",
+  "summary": "A short description of MBTool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/looserable/MBTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "looserable": "lixiaotao@01zhuanche.com"
+  },
+  "source": {
+    "git": "https://github.com/looserable/MBTool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MBTool/Classes/**/*"
+}

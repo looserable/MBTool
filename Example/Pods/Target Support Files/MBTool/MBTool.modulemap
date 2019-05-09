@@ -1,0 +1,6 @@
+framework module MBTool {
+  umbrella header "MBTool-umbrella.h"
+
+  export *
+  module * { export * }
+}
